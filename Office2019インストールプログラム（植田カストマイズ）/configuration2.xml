@@ -1,0 +1,13 @@
+<Configuration>
+  <Add OfficeClientEdition="64" Channel="PerpetualVL2019">
+      <Product ID="ProPlus2019Volume"  PIDKEY="QNM4H-YTP36-V8PG8-RTPTY-G3C63" >
+         <Language ID="ja-jp" />
+      </Product>
+      <Product ID="ProofingTools">
+        <Language ID="de-de" />
+        <Language ID="ja-jp" />
+      </Product>
+  </Add>
+  <RemoveMSI />
+  <Display Level="None" AcceptEULA="TRUE" />  
+</Configuration>

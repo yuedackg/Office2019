@@ -1,0 +1,7 @@
+次のファイルのコピーを取ってインストールしてください
+install.bat
+setup.exe
+configure2.xml
+
+コピー不要
+Dataフォルダ

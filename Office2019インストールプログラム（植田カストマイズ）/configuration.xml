@@ -1,0 +1,13 @@
+<Configuration>
+  <Add SourcePath="\\Server\Share" OfficeClientEdition="64" Channel="PerpetualVL2019">
+      <Product ID="ProPlus2019Volume"  PIDKEY="VV24W-NMHKV-GXDY2-349VK-66KKV" >
+         <Language ID="ja-jp" />
+      </Product>
+      <Product ID="ProofingTools">
+        <Language ID="de-de" />
+        <Language ID="ja-jp" />
+      </Product>
+  </Add>
+  <RemoveMSI />
+  <Display Level="None" AcceptEULA="TRUE" />  
+</Configuration>
