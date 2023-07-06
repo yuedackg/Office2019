@@ -1,5 +1,5 @@
 <Configuration>
-  <Add OfficeClientEdition="32" Channel="PerpetualVL2019">
+  <Add OfficeClientEdition="64" Channel="PerpetualVL2019">
       <Product ID="ProPlus2019Volume"  PIDKEY="QNM4H-YTP36-V8PG8-RTPTY-G3C63" >
          <Language ID="ja-jp" />
       </Product>
